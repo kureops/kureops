@@ -1,0 +1,9 @@
+Utilisation d'un programme d'installation HEN alternatif
+
+Ouvrez le navigateur PS3 et accédez à http://www.ps3xploit.com.
+Sélectionnez « PS3HEN », puis sélectionnez « Installateur HEN (alternatif) ».
+Après le chargement, des instructions s'afficheront à l'écran. Je les ai listés ci-dessous pour que vous n'ayez pas à vous en souvenir.
+Fermer le navigateur
+Ouvrez "Remote Play" et quittez immédiatement
+Utilisez la nouvelle icône pour télécharger et installer HEN
+Redémarrer après l'installation
